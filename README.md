@@ -3,7 +3,8 @@
 Project ini adalah RESTful API menggunakan **Node.js**, **Express**, dan **PostgreSQL**, dengan **Sequelize** sebagai ORM (Object-Relational Mapping) dan sudah terhubung ke halaman website login & register menggunakan HTML vanilla.
 
 ---
-
+## Demo 
+https://shorturl.at/USppx
 ## 📄 Dokumentasi Postman
 https://documenter.getpostman.com/view/45884667/2sB34Zsjcj
 
